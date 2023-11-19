@@ -29,7 +29,7 @@
     "@babel/plugin-transform-runtime": "7.23.3",
     "@babel/preset-env": "7.23.3",
     "@babel/runtime": "7.23.2",
-    "rollup": "4.4.0",
+    "rollup": "4.5.0",
     "@rollup/plugin-babel": "6.0.4",
     "rollup-plugin-commonjs": "10.1.0",
     "@rollup/plugin-node-resolve": "15.2.3",
