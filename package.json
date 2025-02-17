@@ -18,7 +18,7 @@
   "dependencies": {
     "compression": "1.7.4",
     "polka": "0.5.2",
-    "sirv": "2.0.4"
+    "sirv": "3.0.1"
   },
   "devDependencies": {
     "npm-run-all2": "6.2.2",
