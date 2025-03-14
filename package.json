@@ -16,7 +16,7 @@
     "test": "run-p --race dev cy:run"
   },
   "dependencies": {
-    "compression": "1.7.4",
+    "compression": "1.8.0",
     "polka": "0.5.2",
     "sirv": "3.0.1"
   },
