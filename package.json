@@ -21,7 +21,7 @@
     "sirv": "3.0.2"
   },
   "devDependencies": {
-    "npm-run-all2": "8.0.4",
+    "npm-run-all2": "9.0.3",
     "sapper": "0.29.3",
     "svelte": "5.40.0",
     "@babel/core": "7.28.4",
